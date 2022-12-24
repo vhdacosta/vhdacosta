@@ -1,0 +1,2 @@
+- 👋 Hello, I'm Victor Hugo da Costa Fernandes, I'm currently interested in Programming, Marketing, Data Analysis and Business Inteligence. Currently I'm studying Production Engineering at Federal University of São Carlos, in Brazil. 
+- You can find me at [LinkedIn](https://www.linkedin.com/in/vidru/) or send an e-mail to [victor.cfernandes91@gmail.com](mailto:victor.cfernandes91@gmail.com)
