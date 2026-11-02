@@ -37,42 +37,34 @@
 ## 🌱 Currently exploring
 
 Backend development with FastAPI · System design · Data engineering · AI agents & RAG
-
 ## 🛠️ Stack & tools
 
 <table>
   <tr>
     <td width="170"><b>Languages</b></td>
-    <td width="440">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
-      &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" title="SQL" width="40" height="40" />
-      &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vba/vba-original.svg" alt="VBA" title="VBA" width="40" height="40" />
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
+      <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge" alt="VBA" />
     </td>
   </tr>
   <tr>
-    <td width="170"><b>Data & Automation</b></td>
-    <td width="440">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="40" height="40" />
-      &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" title="Power BI" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" title="OpenAI" width="40" height="40" />
+    <td><b>Data & Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI" />
     </td>
   </tr>
   <tr>
-    <td width="170"><b>Tools</b></td>
-    <td width="440">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
-      &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.simpleicons.org/githubcopilot/white" alt="GitHub Copilot" title="GitHub Copilot" width="40" height="40" />
-      &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" title="Notion" width="40" height="40" />
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+      <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
     </td>
   </tr>
 </table>
