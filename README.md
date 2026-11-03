@@ -19,6 +19,14 @@
 - 🚀 Growing toward Software Engineering, Data Engineering and Product Operations
 - 📍 São Paulo, Brazil · 😄 He/Him
 
+## 📦 Projects
+
+- 🎓 **Academic Performance Analysis** — Undergraduate thesis applying statistics, clustering, logistic regression and Random Forest to analyze academic performance in a Production Engineering program and support data-driven decision-making. [View project](https://github.com/vhdacosta/analise_desempenho_curso)
+- 🔹 Python data pipelines for extraction, transformation and automated distribution (coming soon)
+- 🔹 Automation workflows with status control, alerts and reprocessing (coming soon)
+- 🔹 Power BI dashboards for operational and investment analytics (coming soon)
+- 🔹 AI-assisted tools for documentation, data analysis and process support (coming soon)
+
 ## ⚙️ What I build
 
 - **Operational automation** — Python workflows for data intake, document generation, status tracking and alerts
@@ -37,6 +45,7 @@
 ## 🌱 Currently exploring
 
 Backend development with FastAPI · System design · Data engineering · AI agents & RAG
+
 ## 🛠️ Stack & tools
 
 <table>
@@ -69,12 +78,7 @@ Backend development with FastAPI · System design · Data engineering · AI agen
   </tr>
 </table>
 
-## 📦 Projects — coming soon
 
-- 🔹 Python data pipelines for extraction, transformation and automated distribution
-- 🔹 Automation workflows with status control, alerts and reprocessing
-- 🔹 Power BI dashboards for operational and investment analytics
-- 🔹 AI-assisted tools for documentation, data analysis and process support
 
 ## 📬 Let's connect
 
